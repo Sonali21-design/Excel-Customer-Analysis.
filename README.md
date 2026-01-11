@@ -19,8 +19,6 @@ Analyzed customer shopping behavior using Excel to uncover sales trends, product
 ## 📃 Dataset
 Contains ~3,900 customer records including purchase details, demographic info, and product categories.  
 
-
-
 ## 🔍 Key Insights
 * Top-Selling Products: Certain products/categories contribute the most to overall sales, helping identify high-demand items.
 * Customer Demographics: Different age groups and genders show distinct purchase patterns, useful for targeted marketing.
