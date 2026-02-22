@@ -16,6 +16,8 @@ Analyzed customer shopping behavior using Excel to uncover sales trends, product
 *  KPI calculations: total sales, average order value, top-selling products.
 *  Visual representation of insights through bar charts, line charts, pie charts, and tables.
 
+<img width="1179" height="673" alt="image" src="https://github.com/Sonali21-design/Excel-Customer-Analysis./blob/main/dashboard.png?raw=true" />
+
 ## 📃 Dataset
 Contains ~3,900 customer records including purchase details, demographic info, and product categories.  
 
